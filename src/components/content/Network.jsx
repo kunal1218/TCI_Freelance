@@ -2,7 +2,7 @@ import React, { memo } from "react"
 
 function Network () {
     return <>
-        <h1>Welcome to Network!</h1>
+        <h1 style={{fontFamily:"Helvetica", fontWeight:"bold"}}>Network</h1>
     </>
 }
 

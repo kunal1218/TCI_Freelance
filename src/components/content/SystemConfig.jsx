@@ -1,9 +1,7 @@
-import React, { memo } from "react"
-
 function SystemConfig () {
     return <>
-        <h1>Welcome to SystemConfig!</h1>
+        <h1 style={{fontFamily:"Helvetica", fontWeight:"bold"}}>SystemConfig</h1>
     </>
 }
 
-export default memo(SystemConfig);
+export default SystemConfig;

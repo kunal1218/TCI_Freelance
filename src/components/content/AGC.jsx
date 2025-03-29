@@ -1,9 +1,7 @@
-import React, { memo } from "react"
-
 function AGC () {
     return <>
-        <h1>AGC!</h1>
+        <h1 style={{fontFamily:"Helvetica", fontWeight:"bold"}}>AGC</h1>
     </>
 }
 
-export default memo(AGC);
+export default AGC;

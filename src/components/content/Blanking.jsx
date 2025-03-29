@@ -2,7 +2,7 @@ import React, { memo } from "react"
 
 function Blanking () {
     return <>
-        <h1>Welcome to Blanking!</h1>
+        <h1 style={{fontFamily:"Helvetica", fontWeight:"bold"}}>Blanking</h1>
     </>
 }
 

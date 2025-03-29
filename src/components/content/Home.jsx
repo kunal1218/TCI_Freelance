@@ -2,7 +2,7 @@ import React from "react"
 
 function Home () {
     return <>
-        <h1>Welcome Back!</h1>
+        <h1 style={{fontFamily:"Helvetica", fontWeight:"bold"}}>Welcome Back!</h1>
     </>
 }
 
